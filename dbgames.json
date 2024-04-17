@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "produto": "Jogo 1",
+      "descricao": "Jogo do ano",
+      "foto": "jogo1.PNG",
+      "preco": 190
+    },
+    {
+      "id": "2",
+      "produto": "Jogo 2",
+      "descricao": "Top de linha",
+      "foto": "jogo2.PNG",
+      "preco": 290
+    },
+    {
+      "id": "3",
+      "produto": "Jogo 3",
+      "descricao": "O melhor",
+      "foto": "jogo3.PNG",
+      "preco": 150
+    },
+    {
+      "id": "4",
+      "produto": "Jogo 4",
+      "descricao": "Novidade no mercado",
+      "foto": "jogo4.jpg",
+      "preco": 170
+    }
+  ]
+}
